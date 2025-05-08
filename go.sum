@@ -330,8 +330,10 @@ github.com/cockroachdb/redact v1.1.5 h1:u1PMllDkdFfPWaNGMyLD1+so+aq3uUItthCFqzwP
 github.com/cockroachdb/redact v1.1.5/go.mod h1:BVNblN9mBWFyMyqK1k3AAiSxhvhfK2oOZZ2lK+dpvRg=
 github.com/cockroachdb/tokenbucket v0.0.0-20230807174530-cc333fc44b06 h1:zuQyyAKVxetITBuuhv3BI9cMrmStnpT18zmgmTxunpo=
 github.com/cockroachdb/tokenbucket v0.0.0-20230807174530-cc333fc44b06/go.mod h1:7nc4anLGjupUW/PeY5qiNYsdNXj7zopG+eqsS7To5IQ=
-github.com/coinbase/rosetta-sdk-go v0.7.9 h1:lqllBjMnazTjIqYrOGv8h8jxjg9+hJazIGZr9ZvoCcA=
-github.com/coinbase/rosetta-sdk-go v0.7.9/go.mod h1:0/knutI7XGVqXmmH4OQD8OckFrbQ8yMsUZTG7FXCR2M=
+github.com/coinbase/rosetta-sdk-go v0.8.9 h1:6DxoRqy+RbnzTVNjpJqpKJ4Q/Fls+h78MonigyALYaA=
+github.com/coinbase/rosetta-sdk-go v0.8.9/go.mod h1:xIu+9M4EN/WkAy/H67lP8iu+/Fy3Wbyihmv8L+XacWM=
+github.com/coinbase/rosetta-sdk-go/types v1.0.0 h1:jpVIwLcPoOeCR6o1tU+Xv7r5bMONNbHU7MuEHboiFuA=
+github.com/coinbase/rosetta-sdk-go/types v1.0.0/go.mod h1:eq7W2TMRH22GTW0N0beDnN931DW0/WOI1R2sdHNHG4c=
 github.com/cometbft/cometbft v0.34.29 h1:Q4FqMevP9du2pOgryZJHpDV2eA6jg/kMYxBj9ZTY6VQ=
 github.com/cometbft/cometbft v0.34.29/go.mod h1:L9shMfbkZ8B+7JlwANEr+NZbBcn+hBpwdbeYvA5rLCw=
 github.com/cometbft/cometbft-db v0.14.0 h1:dKnK/tQL8BwciH6SgFEuZxwKupMokR4NlwYfJWy7C48=
@@ -707,8 +709,8 @@ github.com/hdevalence/ed25519consensus v0.0.0-20220222234857-c00d1f31bab3/go.mod
 github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUqJM=
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
-github.com/hyle-team/cosmos-sdk v0.46.24 h1:zx17el5eLXocN/w1zsyXCnK571QJ+B2C/ggkGhhV2Ss=
-github.com/hyle-team/cosmos-sdk v0.46.24/go.mod h1:MSTDQiAiKP6/wxmuyhjl9YJSa7uDFxZS916Fo9QncUM=
+github.com/hyle-team/cosmos-sdk v0.46.32 h1:eN1YkNUVtAQ23285Z377fuIlX0Y3C/Anyli8RdLjJpI=
+github.com/hyle-team/cosmos-sdk v0.46.32/go.mod h1:exJNK+hAaBpOdCPfS60Y9UvSy/iepf0pzd9XLeUDaso=
 github.com/hyle-team/ibc-go/v6 v6.1.5 h1:dROh5GBbzYMJq4s+Wh3xzc0F+bIgB+VKg4WV0WnYDtc=
 github.com/hyle-team/ibc-go/v6 v6.1.5/go.mod h1:82/fnnGmfBowgm2apGLInW8ociJqQ9CeSyywSAFs5r0=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
