@@ -204,6 +204,10 @@ github.com/Antonboom/nilnil v0.1.1 h1:PHhrh5ANKFWRBh7TdYmyyq2gyT2lotnvFvvFbylF81
 github.com/Antonboom/nilnil v0.1.1/go.mod h1:L1jBqoWM7AOeTD+tSquifKSesRHs4ZdaxvZR+xdJEaI=
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 h1:UQHMgLO+TxOElx5B5HZ4hJQsoJ/PvUvKRhJHDQXO8P8=
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
+github.com/Bridgeless-Project/cosmos-sdk v0.46.33 h1:577v3h/g5XRrwxannT88jEi16EYOxkJU1ApD+IhEzdM=
+github.com/Bridgeless-Project/cosmos-sdk v0.46.33/go.mod h1:exJNK+hAaBpOdCPfS60Y9UvSy/iepf0pzd9XLeUDaso=
+github.com/Bridgeless-Project/ibc-go/v6 v6.1.9 h1:2xN8NuZ2HpN7bdYVg0F5tApT5OwLweGftztvBrRR18A=
+github.com/Bridgeless-Project/ibc-go/v6 v6.1.9/go.mod h1:wnuhfRmdBok6NxjyOXuxEp5ExL6SIAVeU+sBqy5nwGc=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/toml v1.2.1 h1:9F2/+DoOYIOksmaJFPw1tGFy1eDnIJXg+UHjuD8lTak=
 github.com/BurntSushi/toml v1.2.1/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
@@ -709,10 +713,6 @@ github.com/hdevalence/ed25519consensus v0.0.0-20220222234857-c00d1f31bab3/go.mod
 github.com/hexops/gotextdiff v1.0.3 h1:gitA9+qJrrTCsiCl7+kh75nPqQt1cx4ZkudSTLoUqJM=
 github.com/hexops/gotextdiff v1.0.3/go.mod h1:pSWU5MAI3yDq+fZBTazCSJysOMbxWL1BSow5/V2vxeg=
 github.com/hpcloud/tail v1.0.0/go.mod h1:ab1qPbhIpdTxEkNHXyeSf5vhxWSCs/tWer42PpOxQnU=
-github.com/hyle-team/cosmos-sdk v0.46.33 h1:xc1YF5m+WWhufAh7aiO64Cwnnr+u7/muZdDMIxOqDJc=
-github.com/hyle-team/cosmos-sdk v0.46.33/go.mod h1:exJNK+hAaBpOdCPfS60Y9UvSy/iepf0pzd9XLeUDaso=
-github.com/hyle-team/ibc-go/v6 v6.1.9 h1:ms+nndPA0iTT4SZrYXqT7JT5EjL9XL0PSovT+IBk3t0=
-github.com/hyle-team/ibc-go/v6 v6.1.9/go.mod h1:wnuhfRmdBok6NxjyOXuxEp5ExL6SIAVeU+sBqy5nwGc=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/ianlancetaylor/demangle v0.0.0-20200824232613-28f6c0f3b639/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/improbable-eng/grpc-web v0.15.0 h1:BN+7z6uNXZ1tQGcNAuaU1YjsLTApzkjt2tzCixLaUPQ=
